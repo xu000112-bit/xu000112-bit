@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, I am Qinzheng Xu👋
+- 🔭 I’m working on Health Economics and Financial Intermediation Research Topics.
+- 🌱 I’m currently learning Computer Science to Enhance my toolkit.
 
 <!--
 **xu000112-bit/xu000112-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
