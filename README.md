@@ -4,7 +4,7 @@ I am Qinzheng Xu, an Economics Ph.D. Candidate at **Tulane University's School o
 
 - 🔭 Currently researching Health Economics and Financial Intermediation.
 - 🌱 Proficient in Python programming. 
-- 🚀 Enjoy developing new games and interesting applications. Check out my Tank game [here](https://github.com/xu000112-bit/Tank-War) 
+- 🚀 Enjoy developing new games and interesting applications. Check out my [Tank game](https://github.com/xu000112-bit/Tank-War) 
 - 😄 Pronouns: he/him
 
 
