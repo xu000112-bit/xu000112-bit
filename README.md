@@ -1,6 +1,12 @@
-### Hi there, I am Qinzheng Xu! 👋
-- 🔭 Exploring Health Economics and Financial Intermediation Research.
-- 🌱 Learning Computer Science to enhance my toolkit with algorithms and coding skills. 🖥️💡
+### Hi there 👋
+
+I am Qinzheng Xu, an Economics Ph.D. Candidate at **Tulane University's School of Liberal Arts**. 
+
+- 🔭 Currently researching Health Economics and Financial Intermediation.
+- 🌱 Proficient in Python programming. 
+- 🚀 Enjoy developing new games and interesting applications. Check out my Tank game [here](https://github.com/xu000112-bit/Tank-War) 
+- 😄 Pronouns: he/him
+
 
 <!--
 **xu000112-bit/xu000112-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
