@@ -2,7 +2,7 @@
 
 I am Qinzheng Xu, an Economics Ph.D. Candidate at **Tulane University's School of Liberal Arts**. 
 
-- 🔭 Currently researching Health Economics, Environmental Economics, Crypto Currency and Financial Intermediation.
+- 🔭 Currently researching **Health Economics**, **Environmental Economics**, **Crypto Currency**, and **Financial Intermediation**.
 - 🌱 Proficient in Python programming. 
 - 🚀 Enjoy developing new games and interesting applications. Check out my [Tank game](https://github.com/xu000112-bit/Tank-War) 
 - 😄 Pronouns: he/him
