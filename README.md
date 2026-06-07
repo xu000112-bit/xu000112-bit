@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Qinzheng Xu, an Economics Ph.D. Candidate at **Tulane University's School of Liberal Arts**. 
+I am Qinzheng Xu, an Economics Ph.D. at **Tulane University's School of Liberal Arts**. 
 
 - 🔭 Currently researching **Health Economics**, **Environmental Economics**, **Crypto Currency**, and **Financial Intermediation**.
 - 🌱 Proficient in Python programming. 
